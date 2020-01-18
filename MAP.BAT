@@ -1,0 +1,1 @@
+net use L: "\\10.10.130.100\clinical-pdf\inbound" /user:CGHMC\TF_Connector chinesegen2018
